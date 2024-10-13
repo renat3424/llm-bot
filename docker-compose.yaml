@@ -1,0 +1,6 @@
+services:
+  bot:  
+    build: ./llm-bot
+    restart: always
+    env_file:  
+    - ./llm-bot/.env
