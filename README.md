@@ -5,7 +5,7 @@ This project is a chatbot designed for interaction with Large Language Models (L
 
 The following instructions describe the bot's functionality:
 
-To select a model, click the "Select Model" button.
+To select a model, click the "Выбрать модель" button.
 To ask the language model a question, type your question in the input field.
 To get a description of an image, send the image in the chat.
 To get an answer to a question about an image, send the image to the chat and type your question in the Caption field.
